@@ -1,17 +1,26 @@
 .texto-um{
-    color: black;
+    color: rgb(7, 7, 7);
 text-align: center;
 font-size: 60px;
 }
-.texto-dois{
+
 font-size: 40px
 
-
-}
 
 body{
     text-align: center;
     background-color: #39963F;
+    
 }
 
 
+.texto-dois{
+    color: #0f0f0f;
+}
+body{
+    background-color: #28830c;
+   
+}
+.imagem-dois{
+    font-size: 30px;
+}
